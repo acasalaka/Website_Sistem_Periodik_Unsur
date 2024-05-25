@@ -5,4 +5,4 @@ A final project for High School completion requirement in Chemistry and Informat
 
 Finished by July 2021.
 
-Can be accessed through: [https://csb-clyzz.netlify.app]https://csb-clyzz.netlify.app
+Can be accessed through: [https://csb-clyzz.netlify.app](https://csb-clyzz.netlify.app)
